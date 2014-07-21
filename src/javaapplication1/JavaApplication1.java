@@ -4,8 +4,6 @@
  */
 package javaapplication1;
 
-import javax.swing.JOptionPane;
-
 /**
  *
  * @author ana
