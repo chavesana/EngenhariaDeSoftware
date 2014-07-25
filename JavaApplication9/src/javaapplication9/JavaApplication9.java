@@ -17,8 +17,8 @@ public class JavaApplication9 {
      */
     public static void main(String[] args) {
         System.out.println("Teste para disciplina de engenharia de software\n");
-        System.out.println("Escrevendo ças coisas ae\n");
-        System.out.println("Pois é\n");
+        int i = 2;
+        System.out.println("Valor de i: "+i);
     }
     
 }
