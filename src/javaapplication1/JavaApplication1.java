@@ -15,6 +15,7 @@ public class JavaApplication1 {
         System.out.println("Resposta do item a) do 4): " + r.x(4, 2));
         System.out.println("Resposta do item a) do 5): " + r.y(6));
         System.out.println("Dois ao cubo: " + r.potencia(2, 3));
+        System.out.println("Três ao quadrado: " + r.potencia(3, 2));
         System.out.println("blablabla");
     }
  
@@ -32,6 +33,7 @@ public class JavaApplication1 {
         else
             return x(n-1, m) + x(n-1, m+1);
     }
+    
     
     int potencia(int n, int m){
         int value = n;
