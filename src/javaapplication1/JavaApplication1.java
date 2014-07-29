@@ -17,6 +17,7 @@ public class JavaApplication1 {
         System.out.println("Dois ao cubo: " + r.potencia(2, 3));
         System.out.println("Três ao quadrado: " + r.potencia(3, 2));
         System.out.println("blablabla");
+        System.out.println("blablabla1");
         System.out.println("blablabla2");
         
         NewClass.teste(5);
