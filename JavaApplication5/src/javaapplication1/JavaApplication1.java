@@ -15,6 +15,7 @@ public class JavaApplication1 {
 		System.out.println("Resposta do item a) do 4): " + r.x(4, 2));
 		System.out.println("Resposta do item a) do 5): " + r.y(6));
 		System.out.println("blablablebleblublu");
+		System.out.println("blublublebleblabla");
 	}
 
 	int y(int n) {
