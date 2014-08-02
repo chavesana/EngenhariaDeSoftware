@@ -19,6 +19,7 @@ public class JavaApplication1 {
         System.out.println("blablabla");
         System.out.println("blablabla1");
         System.out.println("blablabla2");
+	System.out.println("blablabla3");
         
         NewClass.teste(5);
         NewClass.teste(4);

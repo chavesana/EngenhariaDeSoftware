@@ -15,7 +15,7 @@ public class NewClass
         if(n == cinco())
             System.out.println("Seu número é 5, parabéns!!");
         else
-            System.out.println("Que pena, você errou!");
+            System.out.println("Que pena, você errou :(");
     }
     
     public static int cinco()
